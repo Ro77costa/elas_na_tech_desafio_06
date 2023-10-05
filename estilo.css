@@ -1,0 +1,32 @@
+.cor-de-fundo{
+    background-color: #B3F4F5;
+}
+
+.centro{
+text-align: center;   
+}
+
+.fundo{
+    background-color: aqua;
+}
+
+.tamanho{
+    margin: 80px;
+}
+
+.fundo-p{
+    background-color: #0BD998;
+     
+}
+
+.tamanho-2{
+    padding: 80px;
+}
+
+.tamanho-3{
+    border: 20px;
+    padding: 20px;
+    border-color: blue blue blue blue;
+   
+}
+
